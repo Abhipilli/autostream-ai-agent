@@ -1,1 +1,17 @@
-# autostream-ai-agent
+{
+  "basic": {
+    "price": "$29/month",
+    "videos": "10 videos/month",
+    "resolution": "720p"
+  },
+  "pro": {
+    "price": "$79/month",
+    "videos": "Unlimited videos",
+    "resolution": "4K",
+    "features": ["AI captions", "24/7 support"]
+  },
+  "policies": {
+    "refund": "No refunds after 7 days",
+    "support": "24/7 support only on Pro plan"
+  }
+}
